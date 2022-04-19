@@ -1,7 +1,7 @@
 # Webpack5 Boilerplate Project
-A webpack5 based boilerplate for react applications.
+A Webpack5 based boilerplate for react applications.
 
-Feature Set
+## Feature Set
 - [x] React 17
 - [x] Webpack 5
 - [x] cssloader and styleloader
