@@ -1,5 +1,4 @@
 # Webpack5 Boilerplate Project
-Boilerplate project for react applications
 
 ## Feature Set
 - [x] React 17
