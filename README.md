@@ -11,7 +11,7 @@
 
 ## Getting Started
 
-1. Clone the repository `gh repo clone hassanamjad91/react-tree` (or if you're not using GitHub CLI: `git clone git@github.com:hassanamjad91/react-tree.git`)
+1. Clone the repository `gh repo clone hassanamjad91/webpack5-boilerplate` (or if you're not using GitHub CLI: `git clone git@github.com:hassanamjad91/webpack5-boilerplate.git`)
 2. If you're using NVM run `nvm use` inside project directory to use node version set in `.nvmrc` file
 3. Run `npm install` or `npm i` to install all the dependencies
 4. To begin development task, run `npm start`
