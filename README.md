@@ -3,7 +3,7 @@ A webpack5 based boilerplate for react applications.
 
 Feature Set
 - [x] React 17
-- [x] webpack 5
+- [x] Webpack 5
 - [x] cssloader and styleloader
 
 ## Prerequisites
